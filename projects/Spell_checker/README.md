@@ -20,6 +20,3 @@ If you are using Jupyter Notebook you need to use the below command
 <!--Remove the below lines and add yours -->
 You can first install the textblob library and then you can run the python script.
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[Hariom1509](https://github.com/Hariom1509)

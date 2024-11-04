@@ -27,6 +27,3 @@ $ python calculate.py
     XYZ's age is 33 years or 406 months or 12328 days
 ```
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[Gaodong](https://github.com/xlgd)

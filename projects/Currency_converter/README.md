@@ -15,6 +15,3 @@ A small python program that converts currency with live info
 <!--Remove the below lines and add yours -->
 ![ ](https://github.com/Python-World/python-mini-projects/blob/master/projects/Currency_converter/output.png)
 
-## *Author Name*
-<!--Remove the below lines and add yours -->
-[github-of-wone](https://github.com/github-of-wone/)
